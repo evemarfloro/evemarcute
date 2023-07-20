@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+}
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.form-container {
+    max-width: 400px;
+    padding: 50px;
+    border: 5px solid #ccc;
+    border-radius: 25px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+}
